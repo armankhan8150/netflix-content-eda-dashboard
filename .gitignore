@@ -18,7 +18,7 @@ env/
 
 # Raw data (the app only needs netflix_clean.csv)
 netflix_titles.csv
-netflix_clean.csv
+# netflix_clean.csv
 
 # OS and editor files
 .DS_Store

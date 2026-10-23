@@ -2,7 +2,7 @@
 
 An interactive Streamlit dashboard for exploring 8,797 Netflix movies and TV shows: when titles were added, how they are rated, and how long the movies are.
 
-**Live app:** _paste your Streamlit link here_
+**Live app:** netflix-content-eda-dashboard-bs4ggqwnv2mnxapprkmhq7j.streamlit.app
 
 ## What the app shows
 
