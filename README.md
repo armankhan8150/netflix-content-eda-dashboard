@@ -46,12 +46,6 @@ No rows were removed as duplicates, because there were none.
    ```
 4. Your browser opens at `http://localhost:8501`.
 
-## Deploy on Streamlit Community Cloud
-
-1. Push this folder to a **public** GitHub repository (`netflix_clean.csv` must be included).
-2. Go to [share.streamlit.io](https://share.streamlit.io) and sign in with GitHub.
-3. Click **Create app**, choose your repository and the `main` branch, and set the main file path to `app.py`.
-4. Click **Deploy**, wait about a minute, then copy the link into this README.
 
 ## Built with
 
